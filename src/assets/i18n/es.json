@@ -1,0 +1,114 @@
+{
+  "buttons": {
+    "cancel": "CANCELAR",
+    "addItem": "Añadir fila",
+    "search": "BUSCAR",
+    "submit": "Enviar",
+    "editItem": "Editar fila",
+    "deleteItem": "Eliminar fila",
+    "save": "GUARDAR",
+    "clean": "LIMPIAR",
+    "close": "Cerrar"
+  },
+  "sampledatamanagement": {
+    "alert": {
+      "acceptBtn": "Sí, Eliminar",
+      "cancelBtn": "No, Cancelar",
+      "title": "Confirmación",
+      "message": "¿Seguro que deseas eliminar esta fila?"
+    },
+    "SampleData": {
+      "navDataSubDescription": "SampleData_EN_Descripción",
+      "navDataSub": "SampleData_ES",
+      "columns": {
+        "email": "Email_ES",
+        "surname": "Surname_ES",
+        "name": "Name_ES",
+        "age": "Age_ES"
+      },
+      "subtitle": "SampleData_ES_Descripción",
+      "title": "SampleData_ES_Grid",
+      "navData": "SampleData_ES"
+    },
+    "subtitle": "SampleData_ES_Descripción",
+    "editTitle": "Editar fila existente",
+    "title": "SampleData_ES_Tabla",
+    "addtitle": "Añadir nueva fila",
+    "searchTip": "Panel de búsqueda",
+    "sortTip": "Limpiar Ordenación"
+  },
+  "header": {
+    "EN": "Inglés",
+    "title": "devon4ng",
+    "error": "Error de acceso",
+    "ES": "Español"
+  },
+  "login": {
+    "password": "Contraseña",
+    "title": "Acceso",
+    "username": "Nombre de usuario",
+    "errorMsg": "Nombre de usuario o contraseña incorrectos"
+  },
+  "customermanagement": {
+    "alert": {
+      "acceptBtn": "Sí, Eliminar",
+      "cancelBtn": "No, Cancelar",
+      "title": "Confirmación",
+      "message": "¿Seguro que deseas eliminar esta fila?"
+    },
+    "Customer": {
+      "navDataSubDescription": "Customer_ES_Descripción",
+      "navDataSub": "Customer_ES",
+      "columns": {
+        "customerName": "CustomerName_ES",
+        "email": "Email_ES",
+        "gender": "Gender_ES",
+        "mobileNumber": "MobileNumber_ES"
+      },
+      "subtitle": "Customer_ES_Descripción",
+      "title": "Customer_ES_Grid",
+      "navData": "Customer_ES"
+    },
+    "subtitle": "Customer_ES_Descripción",
+    "editTitle": "Editar fila existente",
+    "title": "Customer_ES_Tabla",
+    "addtitle": "Añadir nueva fila",
+    "searchTip": "Panel de búsqueda",
+    "sortTip": "Limpiar Ordenación"
+  },
+  "LIKE": "ME GUSTA",
+  "productmanagement": {
+    "alert": {
+      "acceptBtn": "Sí, Eliminar",
+      "cancelBtn": "No, Cancelar",
+      "title": "Confirmación",
+      "message": "¿Seguro que deseas eliminar esta fila?"
+    },
+    "Product": {
+      "navDataSubDescription": "Product_ES_Descripción",
+      "navDataSub": "Product_ES",
+      "columns": {
+        "productName": "ProductName_ES",
+        "quantity": "Quantity_ES",
+        "price": "Price_ES",
+        "customerId": "CustomerId_ES"
+      },
+      "subtitle": "Product_ES_Descripción",
+      "title": "Product_ES_Grid",
+      "navData": "Product_ES"
+    },
+    "subtitle": "Product_ES_Descripción",
+    "editTitle": "Editar fila existente",
+    "title": "Product_ES_Tabla",
+    "addtitle": "Añadir nueva fila",
+    "searchTip": "Panel de búsqueda",
+    "sortTip": "Limpiar Ordenación"
+  },
+  "example description": "Descripción de Ejemplo",
+  "description": "Descripción",
+  "ERROR": "ERROR",
+  "CLOSE": "CERRAR",
+  "SHARE": "COMPARTIR",
+  "home": "Inicio",
+  "example": "Ejemplo"
+}

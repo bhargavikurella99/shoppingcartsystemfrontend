@@ -1,0 +1,108 @@
+{
+  "buttons": {
+    "cancel": "CANCEL",
+    "addItem": "Add item",
+    "search": "SEARCH",
+    "submit": "Send",
+    "editItem": "Edit item",
+    "deleteItem": "Delete item",
+    "save": "SAVE",
+    "clean": "CLEAR",
+    "close": "Close"
+  },
+  "sampledatamanagement": {
+    "addTitle": "Add new item",
+    "alert": {
+      "acceptBtn": "Yes, Delete",
+      "cancelBtn": "No, Cancel",
+      "title": "Confirm",
+      "message": "Are you sure you want to delete this item?"
+    },
+    "SampleData": {
+      "navDataSubDescription": "SampleData_EN_Description",
+      "navDataSub": "SampleData_EN",
+      "columns": {
+        "email": "Email_EN",
+        "surname": "Surname_EN",
+        "name": "Name_EN",
+        "age": "Age_EN"
+      },
+      "subtitle": "SampleData_EN_Description",
+      "title": "SampleData_EN_Grid",
+      "navData": "SampleData_EN"
+    },
+    "editTitle": "Edit item",
+    "searchTip": "Search Panel",
+    "sortTip": "Clear Sorting"
+  },
+  "header": {
+    "EN": "English",
+    "title": "devon4ng",
+    "error": "LOGIN ERROR",
+    "ES": "Spanish"
+  },
+  "login": {
+    "password": "Password",
+    "title": "Login",
+    "username": "Username",
+    "errorMsg": "Wrong username or password"
+  },
+  "customermanagement": {
+    "addTitle": "Add new item",
+    "alert": {
+      "acceptBtn": "Yes, Delete",
+      "cancelBtn": "No, Cancel",
+      "title": "Confirm",
+      "message": "Are you sure you want to delete this item?"
+    },
+    "Customer": {
+      "navDataSubDescription": "Customer_EN_Description",
+      "navDataSub": "Customer_EN",
+      "columns": {
+        "customerName": "CustomerName_EN",
+        "email": "Email_EN",
+        "gender": "Gender_EN",
+        "mobileNumber": "MobileNumber_EN"
+      },
+      "subtitle": "Customer_EN_Description",
+      "title": "Customer_EN_Grid",
+      "navData": "Customer_EN"
+    },
+    "editTitle": "Edit item",
+    "searchTip": "Search Panel",
+    "sortTip": "Clear Sorting"
+  },
+  "LIKE": "LIKE",
+  "productmanagement": {
+    "addTitle": "Add new item",
+    "alert": {
+      "acceptBtn": "Yes, Delete",
+      "cancelBtn": "No, Cancel",
+      "title": "Confirm",
+      "message": "Are you sure you want to delete this item?"
+    },
+    "Product": {
+      "navDataSubDescription": "Product_EN_Description",
+      "navDataSub": "Product_EN",
+      "columns": {
+        "productName": "ProductName_EN",
+        "quantity": "Quantity_EN",
+        "price": "Price_EN",
+        "customerId": "CustomerId_EN"
+      },
+      "subtitle": "Product_EN_Description",
+      "title": "Product_EN_Grid",
+      "navData": "Product_EN"
+    },
+    "editTitle": "Edit item",
+    "searchTip": "Search Panel",
+    "sortTip": "Clear Sorting"
+  },
+  "example description": "Example Description",
+  "description": "Description",
+  "ERROR": "ERROR",
+  "CLOSE": "CLOSE",
+  "SHARE": "SHARE",
+  "home": "Home",
+  "example": "Example"
+}

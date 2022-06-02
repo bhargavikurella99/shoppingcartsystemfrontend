@@ -1,0 +1,51 @@
+<h1 mat-dialog-title>{{title}}</h1>
+<form (ngSubmit)="dialogRef.close(items)" #dialogForm="ngForm">
+   <mat-form-field>
+    <input
+      matInput
+      type="string"
+      name="productName"
+      [placeholder]="'productmanagement.Product.columns.productName' | transloco"
+      [(ngModel)]="items.productName"
+      required
+    />
+  </mat-form-field>
+  <mat-form-field>
+    <input
+      matInput
+      type="number"
+      name="quantity"
+      [placeholder]="'productmanagement.Product.columns.quantity' | transloco"
+      [(ngModel)]="items.quantity"
+      required
+    />
+  </mat-form-field>
+  <mat-form-field>
+    <input
+      matInput
+      type="number"
+      name="price"
+      [placeholder]="'productmanagement.Product.columns.price' | transloco"
+      [(ngModel)]="items.price"
+      required
+    />
+  </mat-form-field>
+  <mat-form-field>
+    <input
+      matInput
+      type="number"
+      name="customerId"
+      [placeholder]="'productmanagement.Product.columns.customerId' | transloco"
+      [(ngModel)]="items.customerId"
+      required
+    />
+  </mat-form-field>
+  <mat-dialog-actions>
+    <button type="button" mat-button mat-dialog-close>
+      {{ 'buttons.cancel' | transloco }}
+    </button>
+    <button type="submit" mat-button [disabled]="!dialogForm.form.valid">
+      {{ 'buttons.save' | transloco }}
+    </button>
+  </mat-dialog-actions>
+</form>

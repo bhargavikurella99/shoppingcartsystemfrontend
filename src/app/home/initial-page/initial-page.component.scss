@@ -1,0 +1,36 @@
+.example-header-image {
+  position: relative;
+  top: 18px;
+  left: 12px;
+  background-image: url('../../../assets/img/shopping-cart.png');
+  background-size: cover;
+}
+
+mat-card-title {
+  padding-top: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+mat-card-subtitle {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.card-image-container {
+  width:300px;
+  height:300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+[mat-card-image] {
+  width: 100%;
+  margin: 0;
+}
+
+mat-card-actions {
+  margin: 0 !important;
+  padding: 8px !important;
+}
