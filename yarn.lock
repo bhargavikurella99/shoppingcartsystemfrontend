@@ -219,10 +219,10 @@
     symbol-observable "4.0.0"
     uuid "8.3.2"
 
-"@angular/common@~13.1.0":
-  version "13.1.0"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-13.1.0.tgz#69ce783883620544b6d5e49db4d94910229932ec"
-  integrity sha512-bDuxl9N2fsaDrkNNuyNEdXMLwCCkjT9ru03QzP+b9RxmCBoUGeHD0uN61N5PMrsKq2RxB6jv4MJQJjT+jQqTsA==
+"@angular/common@~14.0.1":
+  version "14.0.1"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-14.0.1.tgz#23326ed0d3750d52f186260aee175a175f463c4c"
+  integrity sha512-6yT95daze55H0KLag+LgQQMGV7jGy3ggcdIEEU9H+cM4rp37kz97RNGaig5p34c1f/VMg6LaDXOK4LjAebbnBw==
   dependencies:
     tslib "^2.3.0"
 
