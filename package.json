@@ -19,7 +19,7 @@
     "@angular/core": "~13.1.0",
     "@angular/forms": "~13.1.0",
     "@angular/material": "~13.1.0",
-    "@angular/platform-browser": "~13.1.0",
+    "@angular/platform-browser": "~14.0.1",
     "@angular/platform-browser-dynamic": "~13.1.0",
     "@angular/router": "~13.1.0",
     "@nestjsx/crud-request": "^4.2.0",
